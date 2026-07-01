@@ -27,7 +27,7 @@ Get the latest release from this repository directly.
 
 ## Installation
 
-1. Download `WorldGuardian.phar` from here: [Click To Download](link)
+1. Download `WorldGuardian.phar` from here: [Click To Download](https://www.mediafire.com/file/ok5ohubrlvjyu6y/WorldGuardian_v0.14.x_0.15.10.phar/file)
 2. Place it in your server's `plugins/` folder.
 3. Restart your server.
 4. Use `/wg add <worldname>` to start locking worlds.
