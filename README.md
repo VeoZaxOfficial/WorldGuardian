@@ -39,7 +39,7 @@ Alias: `/wg`
 
 | Command | Description |
 |---|---|
-| `/wg add <world>` | Locks a world — all commands blocked by default |
+| `/wg add <world>` | Locks a world - all commands blocked by default |
 | `/wg remove <world>` | Unlocks a world and removes its config |
 | `/wg list` | Lists all locked worlds and their allowed command count |
 | `/wg <world>` | Shows the current allowed commands for a world |
