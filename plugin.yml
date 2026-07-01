@@ -1,0 +1,22 @@
+name: WorldGuardian
+version: 0.14.x_0.15.10
+main: worldguardian\WorldGuardian
+api: ["VeoZaxAPI"]
+author: VeoZax
+description: Blocks all commands in specific worlds except allowed commands.
+
+commands:
+  worldguardian:
+    aliases: [wg]
+    description: Manage locked worlds with allowed commands
+    usage: "/wg <add|remove|list|reload|help|<worldname>>"
+    permission: worldguardian.admin
+    permission-message: "§cYou do not have permission to manage WorldGuardian."
+
+permissions:
+  worldguardian.admin:
+    default: op
+    description: Allows managing locked worlds and allowed commands
+  worldguardian.bypass:
+    default: op
+    description: Allows bypassing WorldGuardian command blocking entirely
