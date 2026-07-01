@@ -14,7 +14,7 @@ A powerful yet lightweight command restrict and server protection plugin for Poc
 - **Hot-reload** - reload the configuration from ingame without restarting the server.
 - **No manual config editing** - add, remove, allow, and deny everything in-game.
 - **Persistent storage** - each locked world gets its own YAML file under `plugins/WorldGuardian/worlds/`.
-- **Alias support** — use `/wg` as a short alias for `/worldguardian`.
+- **Alias support** - use `/wg` as a short alias for `/worldguardian`.
 
 ## Requirements
 
